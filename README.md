@@ -25,7 +25,7 @@ end
 ```
 
 Chef InSpec makes it easy to run your tests wherever you need. More options are found in our [CLI docs](https://docs.chef.io/inspec/cli/).
-
+dummy text to trigger autofix
 ```bash
 # run test locally
 inspec exec test.rb
