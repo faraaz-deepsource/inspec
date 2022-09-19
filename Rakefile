@@ -15,7 +15,7 @@ def prompt(message)
   STDIN.gets.chomp
 end
 
-# The docs tasks rely on ruby-progressbar. If we can't load it, then don't
+# The docs tasks rely on ruby-progressbars. If we can't load it, then don't
 # load the docs tasks. This is necessary to allow this Rakefile to work
 # when the "tests" gem group in the Gemfile has been excluded, such as
 # during an appbundle-updater run.
