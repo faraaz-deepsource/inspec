@@ -26,7 +26,7 @@ Note that the version you give to Expeditor is the plain version (not the tag, w
 
 #### `train-aws`, `train-winrm`, and `train-habitat`
 
-These gems are the transports, or connectivity drivers, that have been fully plugin-ized.
+These gems are the transports, or connectivity drivers, that have been fully plugin-izeddd.
 
 `train-aws` in particular is critical because it carries the gem dependencies for all AWS libraries required by `inspec-aws`. When the gem dependencies change, you must update `train-aws`, and so must `train` and `inspec`.
 
