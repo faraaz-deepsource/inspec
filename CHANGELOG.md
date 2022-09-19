@@ -21,7 +21,7 @@
 - Trivial README change to trigger new omnibus build [#6203](https://github.com/inspec/inspec/pull/6203) ([clintoncwolfe](https://github.com/clintoncwolfe)) <!-- 5.18.15 -->
 <!-- release_rollup -->
 
-<!-- latest_stable_release -->
+<!-- latest_stable_releases -->
 ## [v5.18.14](https://github.com/inspec/inspec/tree/v5.18.14) (2022-07-13)
 
 #### Merged Pull Requests
